@@ -23,7 +23,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 2px solid blue;
+  margin: 0 auto;
+  padding: 10px 40px;
 }
 .flower_content h1 {
   color: rgb(39, 39, 39);
@@ -47,13 +48,14 @@ body {
 }
 .flower_content span {
   width: 150px;
-  height: 40px;
+  height: 60px;
   border-radius: 8px;
   color: white;
   background: rgb(229, 84, 115);
-  padding: 10px 25px;
+  padding: 20px 35px;
   margin: 10px;
-  margin-right: 200px;
+  margin-right: 670px;
+  font-weight: 400;
 }
 .image_content {
   width: 50%;
@@ -62,7 +64,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 2px solid red;
+
   margin: 0 auto;
 }
 .image_content img {
